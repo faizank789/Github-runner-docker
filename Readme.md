@@ -1,6 +1,6 @@
 ![github](https://github.com/faizank789/Github-runner-docker/assets/22654388/1f8ef838-0c9a-44e9-b20a-7d467df88dcd)
 
-1. Update .env file and configure accordingly
+1. Update .env file
 
 2. Reference link for versions || https://github.com/actions/runner/releases
   - docker build --build-arg RUNNER_VERSION=2.315.0 --tag docker-github-runner .
