@@ -37,5 +37,13 @@ services:
 - docker-compose stop
 - docker rm $(docker ps -aq)
 
-
+----------------------------------------------------------------------------------------------------------------------
+**Example for reference:
+**
+Container Logs:
+![logs](https://github.com/faizank789/Github-runner-docker/assets/22654388/346d359d-f7f7-455a-8a22-30ced9894453)
+Console:
+![dashboard](https://github.com/faizank789/Github-runner-docker/assets/22654388/71744b0c-a2b6-46b0-9eab-6df5d18bf09e)
+Scaling: 
+![terminal](https://github.com/faizank789/Github-runner-docker/assets/22654388/f6f402ce-dd32-4800-9256-3dfeacac96a3)
 
