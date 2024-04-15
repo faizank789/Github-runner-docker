@@ -38,9 +38,8 @@ services:
 - docker rm $(docker ps -aq)
 
 ----------------------------------------------------------------------------------------------------------------------
-Example for reference:
-
 Container Logs:
+
 ![logs](https://github.com/faizank789/Github-runner-docker/assets/22654388/346d359d-f7f7-455a-8a22-30ced9894453)
 
 
