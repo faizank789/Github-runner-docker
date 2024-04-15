@@ -5,7 +5,7 @@ GH_REPOSITORY='github_runner_docker'
 GH_TOKEN='ghp_kY9EpTuo9ddfdlHHYx8RBN6fD0YEIcL'
 ```
 
-3. Reference for github runner || https://github.com/actions/runner/releases
+2. Reference link for versions || https://github.com/actions/runner/releases
   - docker build --build-arg RUNNER_VERSION=2.315.0 --tag docker-github-runner .
   
 3. Update "image" and  "RUNNER_VERSION" in docker-compose.yaml
